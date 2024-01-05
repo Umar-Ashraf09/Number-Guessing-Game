@@ -1,0 +1,81 @@
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-color: #e999ff;
+        background-image:
+            radial-gradient(at 73% 79%, hsla(145, 63%, 67%, 1) 0px, transparent 50%),
+            radial-gradient(at 23% 48%, hsla(222, 90%, 64%, 1) 0px, transparent 50%),
+            radial-gradient(at 69% 95%, hsla(181, 96%, 69%, 1) 0px, transparent 50%),
+            radial-gradient(at 96% 22%, hsla(163, 66%, 71%, 1) 0px, transparent 50%),
+            radial-gradient(at 9% 30%, hsla(231, 94%, 72%, 1) 0px, transparent 50%),
+            radial-gradient(at 33% 40%, hsla(265, 85%, 79%, 1) 0px, transparent 50%),
+            radial-gradient(at 6% 56%, hsla(16, 99%, 64%, 1) 0px, transparent 50%);
+}
+
+.container {
+    position: absolute;
+    width: 50%;
+    min-width: 580px;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    background-color: #ffffff;
+    padding: 50px 10px;
+    border-radius: 2.5rem;
+    display: grid;
+    justify-items: center;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#warning {
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(206, 1, 1);
+}
+
+input[type="text"] {
+    width: 90px;
+    font-weight: 600;
+    color: #663399;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: 2px solid #202020;
+    font-size: 28px;
+}
+
+button {
+    cursor: pointer;
+    width: 160px;
+    padding: 15px 0;
+    border-radius: 5px;
+    background: white;
+    color: #663399;
+    border: 3px solid #663399;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    outline: none;
+}
+
+button:hover {
+    transition: 0.5s ease-in-out;
+    color: #ffffff;
+    background-color: #663399;
+}
+
+p {
+    font-weight: 400;
+}
