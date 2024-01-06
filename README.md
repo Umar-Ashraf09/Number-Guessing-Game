@@ -1,7 +1,6 @@
-﻿# Number-Guessing-Game
-https://umar-ashraf09.github.io/Number-Guessing-Game/
+﻿# Number Guessing Game
 
-# Number Guessing Game
+[Number Guessing Game](https://umar-ashraf09.github.io/Number-Guessing-Game/)
 
 Welcome to the Number Guessing Game! Test your luck and skills by guessing the randomly generated number between 1 and 100.
 
@@ -12,11 +11,11 @@ Welcome to the Number Guessing Game! Test your luck and skills by guessing the r
 - [How to Play](#how-to-play)
 - [Design and Styling](#design-and-styling)
 - [Resetting the Game](#resetting-the-game)
-- [License](#license)
 
 ## Preview
 
-<!-- Add a preview image link or GIF if available -->
+![Number Guessing Game](https://github.com/Umar-Ashraf09/Number-Guessing-Game/assets/92431008/6a7cf557-33bb-4895-9af6-1e9e712f969b)
+
 
 ## Technologies Used
 
@@ -26,7 +25,7 @@ Welcome to the Number Guessing Game! Test your luck and skills by guessing the r
 
 ## How to Play
 
-1. Open the Number Guessing Game web page.
+1. Open the [Number Guessing Game](https://umar-ashraf09.github.io/Number-Guessing-Game/) web page.
 2. You'll see a message indicating that the game is thinking of a number between 1-100.
 3. Enter your guess in the provided input field.
 4. Click the "GUESS" button to check your guess.
@@ -40,7 +39,3 @@ The game features a user-friendly design with clear instructions and feedback me
 ## Resetting the Game
 
 If you want to start a new game, simply click the "RESET" button. This will reload the page, generating a new random number for you to guess.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
