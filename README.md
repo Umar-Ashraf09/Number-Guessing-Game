@@ -14,7 +14,7 @@ Welcome to the Number Guessing Game! Test your luck and skills by guessing the r
 
 ## Preview
 
-![Number Guessing Game](https://github.com/Umar-Ashraf09/Number-Guessing-Game/assets/92431008/6a7cf557-33bb-4895-9af6-1e9e712f969b)
+![Number Guessing Game](https://github.com/Umar-Ashraf09/Number-Guessing-Game/assets/92431008/deda6663-fe2f-43ad-ac4d-e466580a36d1)
 
 
 ## Technologies Used
